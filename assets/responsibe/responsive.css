@@ -1,0 +1,173 @@
+@media  (max-width: 1400px) { }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .new_navbar ul li a {
+        display: block;
+        transition: all 0.5s;
+        text-decoration: none;
+        font-size: 14px;
+        padding: 20px 3px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: black;
+        font-family: 'Arimo', sans-serif;
+        border-bottom: 1px solid transparent;
+        /* background-color: red; */
+    }
+    .news_details_importat_btn_section .nav-link .svg-inline--fa {
+      margin-right: 2px;
+    }
+    .news_details_importat_btn_section .nav-link {
+      padding: 7px 5px;
+      font-size: 10px;
+
+    }
+    .news_details_importat_para_one_para a {
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 500;
+      text-align: justify;
+    }
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+     /* navbar_start */
+      /* new_navbar_start */
+   .new_navbar ul{
+    padding:0px;
+   }
+   .new_navbar ul li{
+    width:100%;
+    padding: 0px;
+    border-right: none;
+  }
+  .new_navbar ul li a{
+    padding: 8px 10px;
+    border-bottom: none;
+  }
+  .new_navbar ul li a:hover{
+   background-color:yellowgreen;
+   border-bottom: none;
+  }
+  .new_navbar ul li .drop_ul{
+    position: relative;
+    width:100%;
+    left:30px;
+    top:10px;
+    background-color: none;
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li{
+   
+    /* background-color:plum!important; */
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li a{
+    /* padding-left:50px; */
+    margin-left:30px;
+    padding-left:4px;
+   }
+   .new_navbar ul li .drop_ul .drop_ul_li a:hover{
+    background-color:yellowgreen;;
+    color:white;
+  
+   }
+  /* new_navbar_end */
+    /* navbar_end */
+   
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .header_logo_section_start {
+        text-align: center;
+    }
+    /* header_logo_end */
+     /* navbar_start */
+      /* new_navbar_start */
+   .new_navbar ul{
+    padding:0px;
+   }
+   .new_navbar ul li{
+    width:100%;
+    padding: 0px;
+    border-right: none;
+  }
+  .new_navbar ul li a{
+    padding: 8px 10px;
+    border-bottom: none;
+  }
+  .new_navbar ul li a:hover{
+   background-color:yellowgreen;
+   border-bottom: none;
+  }
+  .new_navbar ul li .drop_ul{
+    position: relative;
+    width:100%;
+    left:30px;
+    top:10px;
+    background-color: none;
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li{
+   
+    /* background-color:plum!important; */
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li a{
+    /* padding-left:50px; */
+    margin-left:30px;
+    padding-left:4px;
+   }
+   .new_navbar ul li .drop_ul .drop_ul_li a:hover{
+    background-color:yellowgreen;;
+    color:white;
+  
+   }
+  /* new_navbar_end */
+    /* navbar_end */
+}
+
+@media (max-width: 575.98px) {
+    .header_logo_section_start {
+        text-align: center;
+    }
+    /* logo_end */
+     /* navbar_start */
+      /* new_navbar_start */
+   .new_navbar ul{
+    padding:0px;
+   }
+   .new_navbar ul li{
+    width:100%;
+    padding: 0px;
+    border-right: none;
+  }
+  .new_navbar ul li a{
+    padding: 8px 10px;
+    border-bottom: none;
+  }
+  .new_navbar ul li a:hover{
+   background-color:yellowgreen;
+   border-bottom: none;
+  }
+  .new_navbar ul li .drop_ul{
+    position: relative;
+    width:100%;
+    left:30px;
+    top:10px;
+    background-color: none;
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li{
+   
+    /* background-color:plum!important; */
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li a{
+    /* padding-left:50px; */
+    margin-left:30px;
+    padding-left:4px;
+   }
+   .new_navbar ul li .drop_ul .drop_ul_li a:hover{
+    background-color:yellowgreen;;
+    color:white;
+  
+   }
+  /* new_navbar_end */
+    /* navbar_end */
+    
+ }
